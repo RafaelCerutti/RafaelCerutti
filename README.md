@@ -1,7 +1,6 @@
 ## Olá, eu me chamo Rafael Cerutti!
 
 
-- 🔭 Procurando oportunidade na área de desenvolvimento 
 - 🌱 Graduando em Ciências da Computação
 
 <div align="left">
